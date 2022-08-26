@@ -28,4 +28,5 @@
     ┠─ ios          # Native ios FIles
     ┠─ src          # Source files 
     ┃   ┠─ @types   # Contains all global definitions of types and interfaces
+    
     ```
