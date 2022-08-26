@@ -1,8 +1,15 @@
+<p align='center'>
+<img
+src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHO-1tVzkyI7KsN-Z04NzjJ72CX_JHFrPELA&usqp=CAU'
+alt='react native logo
+/>
+</p>
+
 <h1 align='center'>
-# RN-na-Veia
+RN-na-Veia
 </h1>
 
-<h2 align='center'># This project is to learn react-native framework </h2>
+<h2 align='center'>This project is to learn react-native framework </h2>
 
 - [React-Native](https://reactnative.dev/)
     - Version -> ""0.69.4"
